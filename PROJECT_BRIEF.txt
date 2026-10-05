@@ -1,0 +1,23 @@
+LEAKGUARD AI — COLLEGE PROJECT
+
+Problem:
+Businesses lose money through duplicate payments, inflated supplier prices,
+inventory discrepancies, unusual expenses and repeated transaction anomalies.
+
+Solution:
+A software-only AI financial intelligence layer that analyzes business data,
+identifies potential leakage, calculates risk, and explains the evidence for
+human review.
+
+MVP flow:
+Upload CSV → Clean data → Rule checks → ML anomaly detection →
+Risk scoring → Dashboard → Investigation.
+
+Core modules:
+1. Expense/transaction leakage
+2. Inventory reconciliation
+3. Vendor intelligence
+4. AI investigation assistant
+
+Tech:
+Python, Streamlit, Pandas, NumPy, Scikit-learn, Plotly.

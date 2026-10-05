@@ -1,0 +1,9 @@
+product_id,product_name,opening_stock,purchased_quantity,received_quantity,sold_quantity,wastage,closing_stock
+P001,Rice 25kg,164,93,81,66,2,189
+P002,Cooking Oil 1L,160,141,132,107,2,192
+P003,Sugar 5kg,140,149,149,135,0,146
+P004,Wheat Flour 10kg,139,110,110,131,2,116
+P005,Tea 1kg,179,114,114,121,0,172
+P006,Coffee 500g,173,92,92,94,4,167
+P007,Biscuits Box,176,118,118,103,0,191
+P008,Spices Pack,177,81,81,62,2,194
